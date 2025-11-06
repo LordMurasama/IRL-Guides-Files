@@ -1,6 +1,6 @@
 # IRL-iOS-Mac (forked from: https://github.com/Naginreed/irl-cae_iOS-Mac)
 > Belabox Cloud Setup for iOS (Moblin) and Mac OBS (For Translation)
-> Japanese Translation Branch: (https://github.com/LordMurasama/IRL-iOS-Mac/tree/LordMurasama-patch-1)
+> Japanese Translation Branch: (To Be Added)
 
 # General Info
 This Guide describes a **Low Cost and Easy** Solution for
